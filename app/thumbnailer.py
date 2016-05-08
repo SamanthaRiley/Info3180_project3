@@ -87,11 +87,8 @@ def get_data(url):
     
     
 
-url1 = "http://www.ebay.com/itm/Apple-iPad-Air-2-64GB-Wi-Fi-4G-Cellular-Apple-SIM-9-7in-Silver-/252314650117?hash=item3abf200605:g:m8sAAOSwN81WDu3a"
-url2 = "http://www.ebay.com/itm/Unlocked-Dual-Sim-BLU-PHONE-Advance-5-0-Smartphone-US-GSM-White-/262304395053?hash=item3d128f6f2d:g:ntQAAOSwe7BWzOQU"
-url3 = "http://www.amazon.com/gp/product/B00THKEKEQ/ref=s9_ri_gw_g421_i1_r?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-4&pf_rd_r=1WEK74K6Y8MXQC6BSHDN&pf_rd_t=36701&pf_rd_p=2437869562&pf_rd_i=desktop"
-url4 = "http://www.amazon.com/gp/product/B012GC5DX8/ref=s9_qpp_gw_d38_g107_i1_r?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-1&pf_rd_r=0HX3HCEVK96HB5FDXMV0&pf_rd_t=36701&pf_rd_p=2437869742&pf_rd_i=desktop"
-url5 = "http://www.forever21.com/Product/Product.aspx?BR=f21&Category=dress&ProductID=2000187141&VariantID="
-url6 = "http://www.homedepot.com/p/Samsung-Chef-Collection-24-1-cu-ft-4-DoorFlex-French-Door-Refrigerator-in-Stainless-Steel-Counter-Depth-RF24J9960S4/206046683"
-url7 = "http://www.walmart.com/ip/46201753?findingMethod=wpa&wpa_qs=DzjAXPVfWOGVVepHE5ZfB_oDpEnKXg_YgvHURtkauAM&tgtp=2&cmp=-1&pt=hp&adgrp=-1&plmt=1145x345_B-C-OG_TI_8-20_HL_MID_HP&bkt=__bkt__&pgid=0&adUid=6abe87a7-e10e-47be-95ed-78acc0ced678&adiuuid=4389b3fd-2b89-49e7-b5c6-e21789ccce98&adpgm=hl&pltfm=desktop"
-url8 = "http://www.amazon.com/AmazonBasics-Lightweight-On-Ear-Headphones-Black/dp/B00NBEWB4U/ref=sr_1_1?s=electronics&srs=10112675011&ie=UTF8&qid=1459377481&sr=1-1"
+url1 = "https://www.amazon.com/gp/product/B00G5OAT88/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=A3HIHADV23VGU1"
+url2 = "http://www.amazon.com/dp/B00X4WHP5E/ref=fs_ods_fs_ha_dr"
+url3 = "https://www.amazon.com/s/ref=s9_dnav_bw_ir02_s?node=172282,!493964,1266092011,172659,6459737011&search-alias=electronics&field-feature_five_browse-bin=2443316011&bbn=6459737011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-2&pf_rd_r=GST661ZR83YHCE6C68EF&pf_rd_t=101&pf_rd_p=1633959322&pf_rd_i=5969290011"
+url4 = "https://www.amazon.com/Jawbone-Heart-Activity-Sleep-Tracker/dp/B00N9E6DUK/ref=lp_12633156011_1_6?srs=12633156011&ie=UTF8&qid=1462674647&sr=8-6"
+url5 = "http://www.ebay.com/itm/dji-phantom-3-standard-with-2-7k-camera-and-3-axis-gimbal-cp-pt-000168/282004999561?hash=item41a8cecd89"
